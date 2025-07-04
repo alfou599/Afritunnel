@@ -1,0 +1,10 @@
+[Interface]
+Clé privée = uF+fX+kUKVqsPZbP9KH2VbFMEb1vHc6VQTu2bZ4eBks=
+Adresse = 10.66.66.3/32
+DNS = 1.1.1.1
+
+[Pair]
+Clé publique = 3ZLZhC4Oq4E9H81VcEVKbXcfj1tYkkAsXTdRwSLFtX0=
+IP autorisées = 0.0.0.0/0
+Point de terminaison = 104.21.23.56:51820
+PersistentKeepalive = 25
